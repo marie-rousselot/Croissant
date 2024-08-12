@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  display: block;
+}
+
+p {
+  text-align: center;
+  display: block;
+}
+
+body {
+  background: #f8e8a6;
+}
+
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: #e46161;
+}
